@@ -40,3 +40,15 @@ h1 .flex span:last-of-type {
   font-size: 1.2em;
 }
 
+section {
+  max-width: 40rem;
+  margin: 0 auto;
+  border: 2px solid #d0d0d5;
+}
+
+#years {
+  display: flex;
+  justify-content: flex-end;
+  position: sticky;
+  top: 0;
+}
