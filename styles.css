@@ -56,3 +56,18 @@ section {
   margin: 0 -2px;
   padding: 0.5rem calc(1.25rem + 2px) 0.5rem 0;
 }
+
+#years span[class] {
+  font-weight: bold;
+  width: 4.5rem;
+  text-align: right;
+}
+
+.table-wrap {
+  padding: 0 0.75rem 1.5rem 0.75rem;
+
+}
+
+span:not(.sr-only) {
+ font-weight: normal;
+}
